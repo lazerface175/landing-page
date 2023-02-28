@@ -67,3 +67,28 @@ button{
 .hero-second{
     font-size: 19px;
 }
+
+.second{
+    display: flex;
+    flex-direction: column;
+}
+
+.second-images{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.information-header{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.one, .two, .three, .four{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
