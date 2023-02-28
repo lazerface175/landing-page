@@ -92,3 +92,20 @@ button{
     border: 1px solid black;
     
 }
+
+.third{
+    background-color: #e5e7eb;
+    padding: 50px 400px;
+}
+
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.author{
+    text-align: end;
+    font-weight: bolder;
+    font-size: 25px;
+}
